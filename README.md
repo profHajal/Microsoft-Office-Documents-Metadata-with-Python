@@ -10,7 +10,9 @@ The script extracts the following info :
 - LastModifiedBy
 - DateCreated
 - DateModified
+- 
 It can be easily modified to acquire other information.
+
 It is handy for Exams were it can easily help in spotting cheaters , examples:
 - Creator of the file is different from the Lastmodified
 - Difference between DateCreated and DateModified is not logical for the time given for the exam.
