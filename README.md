@@ -10,7 +10,7 @@ The script extracts the following info :
 - LastModifiedBy
 - DateCreated
 - DateModified
-- 
+
 It can be easily modified to acquire other information.
 
 It is handy for Exams were it can easily help in spotting cheaters , examples:
