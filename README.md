@@ -1,7 +1,7 @@
 # MSO_MD
-## Microsoft Office Metadata with Python
-A python script to extract the Metadata of Microsoft Office files.
-These information can be seen in the INFO tab of any microsoft office file.
+## Microsoft Office Documents Metadata with Python
+A python script to extract the Metadata of Microsoft Office documents.
+These information can be seen in the INFO tab of any microsoft office document.
 This script is handy when you have a lot of documents and the manual work will be exhausting.
 The script extracts the following info :
 - Title
